@@ -19,8 +19,8 @@
 
 //---------------------------SSID and Password of your WiFi router
 // Define the SSID and password for connecting to the WiFi router
-const char* ssid = "uumwifi mcm ahma";
-const char* password = "0174652300abc" ;
+const char* ssid = "your_wifi_ssid here";
+const char* password = "wifipassword_here" ;
 //----------------------------------------
 
 
